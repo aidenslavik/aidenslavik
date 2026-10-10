@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-#I am currently working on a programming exercise that is very hard to grasp
-#I rode a horse today
-#I am tired and a little bit hungry
-#I like cats
-#How to reach me: aws50673@email.vccs.edu
+##I am currently working on a programming exercise that is very hard to grasp
+##I rode a horse today
+##I am tired and a little bit hungry
+##I like cats
+##How to reach me: aws50673@email.vccs.edu
 <img width="640" height="572" alt="bleeeh-cat" src="https://github.com/user-attachments/assets/beb0c7f5-1e89-46c5-93bb-b0e010396b67" />
 
 <!--
